@@ -45,12 +45,11 @@
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olandaeta/)
-[![GitHub](https://img.shields.io/badge/github-%231DA1F2.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landaetadev)
 [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](https://landaetadev.github.io)
 <br>
 <br>
 
-## <img width=30px align=center src="./assets/icons/github.svg"/> Github Stats 
+## <img width=30px src="./assets/icons/github.svg"/> Github Stats 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=landaetadev&layout=compact&langs_count=8&theme=react"/>
 <br>
 

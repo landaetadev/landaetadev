@@ -38,6 +38,7 @@
 <div>
     <img height="50" src="./assets/icons/3DDesign/maya.svg" /> &nbsp
     <img height="50" src="./assets/icons/3DDesign/unity.svg" /> &nbsp
+    <img height="50" src="./assets/icons/3DDesign/onshape.png" /> &nbsp
 </div>
 <br>
 <br>

@@ -8,9 +8,9 @@
 
 ### Web Design
 <div>
-    <img height="50" src="./assets/icons/webDesign/html.svg" /> &nbsp
-    <img height="50" src="./assets/icons/webDesign/css.svg" /> &nbsp
-    <img height="50" src="./assets/icons/webDesign/javascript.svg" /> &nbsp
+    <img height="55" src="./assets/icons/webDesign/HTML.png" /> &nbsp
+    <img height="55" src="./assets/icons/webDesign/CSS.png" /> &nbsp
+    <img height="55" src="./assets/icons/webDesign/JS.png" /> &nbsp
     <img height="50" src="./assets/icons/webDesign/bootstrap.svg" /> &nbsp
 </div>
 

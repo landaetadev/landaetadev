@@ -46,7 +46,7 @@
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olandaeta/)
-[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](https://landaetadev.github.io)
+[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](https://www.landaetadev.com)
 <br>
 <br>
 

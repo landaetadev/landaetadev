@@ -8,9 +8,9 @@
 
 ### Web Design
 <div>
-    <img height="55" src="./assets/icons/webDesign/HTML.png" /> &nbsp
-    <img height="55" src="./assets/icons/webDesign/CSS.png" /> &nbsp
-    <img height="55" src="./assets/icons/webDesign/JS.png" /> &nbsp
+    <img height="60" src="./assets/icons/webDesign/HTML.png" /> &nbsp
+    <img height="60" src="./assets/icons/webDesign/CSS.png" /> &nbsp
+    <img height="60" src="./assets/icons/webDesign/JS.png" /> &nbsp
     <img height="50" src="./assets/icons/webDesign/bootstrap.svg" /> &nbsp
 </div>
 
@@ -30,8 +30,8 @@
 
 ### Data Management
 <div>
-    <img height="50" src="./assets/icons/dataManagement/mysql.svg" /> &nbsp
-    <img height="50" src="./assets/icons/dataManagement/json.svg" /> &nbsp
+    <img height="55" src="./assets/icons/dataManagement/mysql.svg" /> &nbsp
+    <img height="55" src="./assets/icons/dataManagement/json.svg" /> &nbsp
 </div>
 
 ### 3D Design
@@ -45,8 +45,17 @@
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olandaeta/)
-[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](https://www.landaetadev.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olandaeta/)
+[![DEV](https://img.shields.io/badge/PORTFOLIO-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](https://www.landaetadev.com) -->
+
+[![Static Badge](https://img.shields.io/badge/linkedin-olandaeta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/olandaeta/)
+
+[![Static Badge](https://img.shields.io/badge/PORTFOLIO-www.landaetadev.com-DB0000?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://www.landaetadev.com)
+
+
+
+
+
 <br>
 <br>
 

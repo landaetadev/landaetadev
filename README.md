@@ -1,6 +1,6 @@
 # <a href="https://landaetadev.github.io"><img width="25px" src="./assets/images/WebLogo.webp"></a>  Hello! 👋 I am Orlando Landaeta <br> Computer graduate
 
-### Computer graduate, currently doing a Master's in Interactive Technologies and Digital Manufacturing at the U.P.V. and in my free time I like to spend them between video games and model airplanes.
+### In my free time I like to spend it playing video games and model airplanes. Here you can explore a little of my career, experience, knowledge and skills in the world of computing.
 <br>
 <br>
 

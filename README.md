@@ -2,7 +2,6 @@
 
 ### In my free time I like to spend it playing video games and model airplanes. Here you can explore a little of my career, experience, knowledge and skills in the world of computing.
 <br>
-<br>
 
 ## 💻 Skills
 
@@ -45,21 +44,16 @@
 
 ## 📬 Contact
 
-<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olandaeta/)
-[![DEV](https://img.shields.io/badge/PORTFOLIO-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](https://www.landaetadev.com) -->
+[![Static Badge](https://img.shields.io/badge/PORTFOLIO-www.landaetadev.com-DB0000?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://www.landaetadev.com)
 
 [![Static Badge](https://img.shields.io/badge/linkedin-olandaeta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/olandaeta/)
 
-[![Static Badge](https://img.shields.io/badge/PORTFOLIO-www.landaetadev.com-DB0000?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://www.landaetadev.com)
-
-
-
-
-
 <br>
 <br>
 
-## <img width=30px src="./assets/icons/github.svg"/> Github Stats 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=landaetadev&layout=compact&langs_count=8&theme=react"/>
+## <img width=30px src="./assets/icons/github.svg"/> Tech & Tools Stats 
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=landaetadev&layout=compact&langs_count=10&bg_color=A4A4A4&text_color=041422&title_color=041422&text_bold=true&theme=react)
+
 <br>
 
